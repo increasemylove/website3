@@ -2,10 +2,10 @@
   border-width: 2px;
 }
 body {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
 }
 .display-1 {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 5rem;
   line-height: 1.1;
 }
@@ -13,7 +13,7 @@ body {
   font-size: 6.25rem;
 }
 .display-2 {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 3.2rem;
   line-height: 1.1;
 }
@@ -21,7 +21,7 @@ body {
   font-size: 4rem;
 }
 .display-4 {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 1.2rem;
   line-height: 1.5;
 }
@@ -29,7 +29,7 @@ body {
   font-size: 1.5rem;
 }
 .display-5 {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 2rem;
   line-height: 1.5;
 }
@@ -37,7 +37,7 @@ body {
   font-size: 2.5rem;
 }
 .display-7 {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 1.6rem;
   line-height: 1.5;
 }
@@ -584,7 +584,7 @@ a:hover {
   display: none;
 }
 .form-control {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 1.2rem;
   line-height: 1.5;
   font-weight: 400;
@@ -598,7 +598,7 @@ a:hover {
   border-color: #af272e !important;
 }
 .form-control:-webkit-input-placeholder {
-  font-family: 'Cormorant Garamond', serif;
+  font-family: 'EB Garamond', serif;
   font-size: 1.2rem;
   line-height: 1.5;
   font-weight: 400;
